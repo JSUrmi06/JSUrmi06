@@ -12,9 +12,9 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning with [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning HTML, React, JS, Java, C++
+- 🌱 I’m currently learning  C , C++ , Java , PYTHON, BOOTSTRAP , REACT , JS , HTML , HTML5, CSS3, JS, Bootstrap
 
 - 👨‍💻 All of my projects are available at
 
@@ -85,4 +85,5 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <br/>
 
 ## Connect with me
+
 
