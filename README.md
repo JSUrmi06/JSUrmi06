@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jinnat Sultana Urmi</h1>
 <h3 align="center"> Jenior Programmer | Jenior Frontend wed developer| Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center"> Learning Frontend Web development at Hablu Programmer</h4>
 
 <div align="center">
 
@@ -16,7 +16,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning HTML, React, JS, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about ** C , C++ , Java , PYTHON, BOOTSTRAP , REACT , JS , HTML , HTML5, CSS3, JS, Bootstrap**
   
