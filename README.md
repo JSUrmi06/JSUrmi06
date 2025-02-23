@@ -1,6 +1,6 @@
-![I am JSUrmi](https://github.com/harun181/harun181/blob/main/code.png)
+![I am JSUrmi]
 
-<h1 align="center">Hi 👋, I'm Jinnat Sultana Urmi)</h1>
+<h1 align="center">Hi 👋, I'm Jinnat Sultana Urmi</h1>
 <h3 align="center"> Jenior Programmer | Jenior Frontend wed developer| Speed Learner</h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
